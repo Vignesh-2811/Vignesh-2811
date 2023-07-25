@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vignesh-2811/Vignesh-2811/blob/master/readme.gif" alt="VSC's custom image"/>
+  <img src="https://github.com/Vignesh-2811/Vignesh-2811/blob/main/readme.gif" alt="VSC's custom image"/>
 </p>
 
 # Hello there, I'm Shakthi Vignesh J 👋
