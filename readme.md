@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning more about this virtual world.
 - 🥅 2023 Goals: Learn more about React and Node.
-- 🌐 Website: http://www.shakthivignesh.web.app/
+- 🌐 Website: https://www.shakthivignesh.web.app/
 - 📫 Reach to me, through mail: shakthivignesh2002@gmail.com
 
 ### Connect with me:
